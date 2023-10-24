@@ -6,8 +6,8 @@ but your donation will encourage the author make the software better~
 
 
 
-## 微信 Weixin
+## 微信 Weixin TODO
 ![微信二维码](../src/main/resources/image/weixinpay.jpg)
 
-## 支付宝 Alipay
+## 支付宝 Alipay TODO
 ![支付宝二维码](../src/main/resources/image/alipay.jpg)
